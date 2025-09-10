@@ -22,4 +22,8 @@ Internet of Things (IoT) Security
 
 risk represents the potential for damage been taken, a threat is what can cause that damage, and a vulnerability is the weakness that allows the threat to cause damage.
 
-Roles within InfoSec
+Roles within InfoSec: 
+
+| Role | Description | Relevance to Pentesting |
+| -----|-------------|-------------------------|
+|Chief Information Security Officer (CISO) | Oversees the entire information security program | Sets overall security strategy that pen testers will evaluate |
