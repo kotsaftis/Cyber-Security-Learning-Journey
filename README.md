@@ -5,4 +5,4 @@
 
 ### Lessons
     
-##### 1. Structure if InfoSecc [https://github.com/kotsaftis/Cyber-Security-Learning-Journey/blob/main/Structure%20of%20Infosec.md]
+##### 1. Structure Of InfoSecc [Structure of InfoSec.md]
