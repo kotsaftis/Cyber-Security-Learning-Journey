@@ -4,5 +4,5 @@
 ## Junior Cybersecurity Analyst
 
 ### Lessons
-    
-- [Structure Of InfoSec] ( ./Structure of Infosec.md)
+
+- [Structure Of InfoSec](Structure Of Infosec.md)
