@@ -5,4 +5,4 @@
 
 ### Lessons
     
-##### 1. Structure Of InfoSecc [Structure of Infosec.md]
+##### 1. Structure Of InfoSecc [Structure Of Infosec.md]
