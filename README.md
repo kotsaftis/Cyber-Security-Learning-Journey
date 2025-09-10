@@ -5,4 +5,4 @@
 
 ### Lessons
 
-- [Structure Of InfoSec]( ./StructureOfInfosec.md)
+- [Structure Of InfoSec](./StructureOfInfosec.md)
