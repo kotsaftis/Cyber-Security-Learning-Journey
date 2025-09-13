@@ -6,3 +6,4 @@
 ### Lessons
 
 - [Structure Of InfoSec](./Structure_Of_Infosec.md)
+- [ Principles in InfoSec](./Principles in InfoSec.md)
