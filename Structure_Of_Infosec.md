@@ -1,3 +1,4 @@
+
 # Sructure Of Infosec
 
 Client: This is a PC/Laptop through which you access resources and services "on the Internet"  
@@ -38,3 +39,5 @@ Roles within InfoSec:
 | Role | Description | Relevance to Pentesting |
 | -----|-------------|-------------------------|
 |Chief Information Security Officer (CISO) | Oversees the entire information security program | Sets overall security strategy that pen testers will evaluate |
+|Security Architect | Designs secure systems and networks | Creates the systems that pen testers will attempt to breach|
+|Penetration Tester | Identifies vulnerabilities through simulated attacks | Actively looks for and exploits vulnerabilities within a system, legally and ethically. This is likely your target role. |
