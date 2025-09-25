@@ -5,7 +5,7 @@
 
 Networks are important because they let us communicate with other devices, share data, share and access files.
 
-##LAN/WAN  
+## LAN/WAN  
 `LAN` --> Local Area Network. Small area network where devices can have different links with each other. (Houses, Offices, Schools etc)  
 `WAN` --> Wide Area Network. A big scale of networks where lots of LANs connect with each other. The biggest WAN that exists is the Internet itself.  
 
